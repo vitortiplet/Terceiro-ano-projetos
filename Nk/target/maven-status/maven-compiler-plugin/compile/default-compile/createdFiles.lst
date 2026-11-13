@@ -1,0 +1,9 @@
+com\nkkaraoke\view\TelaMenu.class
+com\nkkaraoke\model\Reserva.class
+com\nkkaraoke\view\TelaGerenciamento.class
+com\nkkaraoke\view\TelaInsights.class
+com\nkkaraoke\view\TelaLogin.class
+com\nkkaraoke\view\TelaCadastro.class
+com\nkkaraoke\view\TelaSobre.class
+com\mycompany\nk\Nk.class
+com\nkkaraoke\repository\ReservaRepository.class
